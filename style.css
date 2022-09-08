@@ -106,6 +106,12 @@ footer{
     font-size: large;
 }
 
+.audio>button,
+.video>button{
+    padding-right: 0;
+    margin-right: 0;
+}
+
 .menu>p{
     font-size: x-small;
     margin: 0;
